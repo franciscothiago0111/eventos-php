@@ -35,5 +35,8 @@
 | 14/12 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 
 ## 2025
+
+| Data | Evento | Modalidade | Link | Cidade - UF |
+| --- | --- | --- | --- | --- |
 | 03/10 | PHPeste 2025 (O maior evento de PHP do Nordeste) | Presencial | [Site](https://phppiaui.com.br/) | Parnaíba - PI |
 
